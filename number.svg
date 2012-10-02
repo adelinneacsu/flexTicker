@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20px" height="330px" preserveAspectRatio="xMinYMin meet" viewBox="0 0 20 330">
+	<g fill="none">
+			
+		<text x="10" y="30" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">0</tspan>
+		</text>
+		<text x="10" y="60" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">1</tspan>
+		</text>
+		<text x="10" y="90" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">2</tspan>
+		</text>
+		<text x="10" y="120" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">3</tspan>
+		</text>
+		<text x="10" y="150" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">4</tspan>
+		</text>
+		<text x="10" y="180" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">5</tspan>
+		</text>
+		<text x="10" y="210" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">6</tspan>
+		</text>
+		<text x="10" y="240" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">7</tspan>
+		</text>
+		<text x="10" y="270" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">8</tspan>
+		</text>
+		<text x="10" y="300" fill="#ffffff" style="text-anchor: middle; font: 24px Helvetica, Arial;" text-anchor="middle" font="24px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">9</tspan>
+		</text>
+		<text x="10" y="330" fill="#FFFFFF" style="text-anchor: middle; font: 32px Helvetica, Arial;" text-anchor="middle" font="32px Helvetica, Arial" stroke="none">
+			<tspan dy="-5">,</tspan>
+		</text>
+		
+		
+	</g>
+</svg>

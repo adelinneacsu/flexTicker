@@ -1,0 +1,14 @@
+.flexTicker {
+    height:30px;
+    overflow:hidden;/**/
+    position:relative;
+}
+.flexTicker .flexNumber {
+    height:330px;
+    width:20px;;
+    position:relative;
+    background-image:url(number.svg);
+    float:left;
+    overflow:hidden;
+    margin:0 1px;		
+}

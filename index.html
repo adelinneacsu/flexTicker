@@ -1,0 +1,37 @@
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>flexTicker demo</title>
+<link media="all" type="text/css" href="style.css" rel="stylesheet">
+<style type="text/css">
+body {
+	background-color:#000;
+}
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.5.2.js"></script>
+<script type="text/javascript" src="jquery.flexTicker.js"></script>
+<script type="text/javascript">//<![CDATA[ 
+function refreshData(){
+		$('.one').flexTicker({
+			number: $("#newNumber").val()			
+		});
+	}
+$(document).ready(function() {    
+	//build initial number
+	$('.one').flexTicker({
+        number: 123456,	
+		speed: 150
+    });
+	$('.one').flexTicker('scaleTicker');	
+	$(window).resize(function(){
+		$('.one').flexTicker('scaleTicker');
+	});	
+});
+//]]>  
+
+</script>
+<body> 
+    <input type="button" value="Refresh" onclick="refreshData()" />
+	<input type="input" id="newNumber" />
+	<br/>
+    <div class="one flexTicker"></div
+</body>
