@@ -1,14 +1,29 @@
 .flexTicker {
-    height:30px;
-    overflow:hidden;/**/
-    position:relative;
+    overflow: hidden;
+    position: relative;
 }
 .flexTicker .flexNumber {
-    height:330px;
-    width:20px;;
-    position:relative;
-    background-image:url(number.svg);
-    float:left;
-    overflow:hidden;
-    margin:0 1px;		
+    position: relative;
+    margin: 0 1px;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 0px;
 }
+
+.flexTicker.leftAlign .flexNumber {
+    float: left;
+}
+
+.flexTicker.centerAlign .flexNumber {
+    float: left;
+}
+
+.flexTicker.rightAlign .flexNumber {
+    float: right;
+}
+
+
+.flexTicker {
+    color: #FFFFFF;
+}
+
